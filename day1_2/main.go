@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"sort"
 	"input"
 	"log"
+	"sort"
 	"strconv"
 	"strings"
 )
